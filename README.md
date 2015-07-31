@@ -5,9 +5,9 @@ parse dbms(mysql) data into parquet
 
 configurations
 
-config mysql connection info at bananalighter.mysql.MySQLConnectionUtil
+1.config mysql connection info at bananalighter.mysql.MySQLConnectionUtil
 
-config parser info at bananalighter.parser.TestParser
+2.config parser info at bananalighter.parser.TestParser
 
 
 Setup mysql db
