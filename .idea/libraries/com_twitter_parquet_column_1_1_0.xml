@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="com.twitter:parquet-column:1.1.0" type="repository">
+    <properties maven-id="com.twitter:parquet-column:1.1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/twitter/parquet-column/1.1.0/parquet-column-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twitter/parquet-common/1.1.0/parquet-common-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twitter/parquet-encoding/1.1.0/parquet-encoding-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/twitter/parquet-generator/1.1.0/parquet-generator-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.7/commons-codec-1.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/it/unimi/dsi/fastutil/6.5.7/fastutil-6.5.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

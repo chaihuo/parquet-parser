@@ -1,0 +1,6 @@
+message m {
+  required int32 id;
+  optional binary content;
+  optional float price;
+  optional int64 time;
+}
